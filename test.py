@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+# Sum of numbers
 
 print('Enter word "stop" for result')
 summ = 0
@@ -10,3 +11,4 @@ while True:
     summ += x
 print('Summ number:', summ)
 input()
+
